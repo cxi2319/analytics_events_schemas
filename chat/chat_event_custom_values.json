@@ -39,6 +39,6 @@
   "timestamp": "2023-03-18T04-05-06Z",
   "visitor": {
     "visitorId": "12345",
-    "visitorIdMethod": "YEXT_USER"
+    "visitorIdMethod": "EXTERNAL_USER"
   }
 }
