@@ -1,0 +1,45 @@
+{
+  "action": "THUMBS_UP",
+  "chat": {
+     "chatBotId": "question_answering_bot",
+     "conversationId": "426444d7-1481-4092-924b-fabdf8b9dd6f",
+     "responseId": "chatcmpl-6u3vy4ys97W68snKIg40d4CFm4uTq"
+   },
+  "bot": false,
+  "browserAgent": {
+    "browser": "Firefox",
+    "browserVersion": "81.0",
+    "device": "Desktop",
+    "os": "Windows 10",
+    "osVersion": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0"
+  },
+  "value": 14.99,
+  "valueCurrency": "USD",
+  "customTags": {
+    "promoCode": "15OFFTONYS",
+    "cardMerchant": "Visa"
+  },
+  "customValues":{},
+  "internalUser": false,
+  "location": {
+    "coordinates": "38.9893,-77.1586",
+    "country": "US"
+  },
+  "destinationUrl": "",
+  "entity": "tonys-special-1",
+  "ip": {
+    "address": "3ef4b369f13214495a481df113198730",
+    "algorithm": "HASH"
+  },
+  "locale": "en",
+  "nonce": "",
+  "pageUrl": "https://www.tonysdeli.com/menu/specials",
+  "query": "Tony's weekly specials",
+  "referrerUrl": "https://www.tonysdeli.com/menu",
+  "timestamp": "2023-03-18T04-05-06Z",
+  "visitor": {
+    "visitorId": "12345",
+    "visitorIdMethod": "YEXT_USER"
+  }
+}
