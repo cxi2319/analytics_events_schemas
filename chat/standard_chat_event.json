@@ -1,10 +1,5 @@
 {
   "action": "THUMBS_UP",
-  "chat": {
-     "chatBotId": "question_answering_bot",
-     "conversationId": "426444d7-1481-4092-924b-fabdf8b9dd6f",
-     "responseId": "chatcmpl-6u3vy4ys97W68snKIg40d4CFm4uTq"
-   },
   "bot": false,
   "browserAgent": {
     "browser": "Firefox",
@@ -14,18 +9,23 @@
     "osVersion": "",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0"
   },
+  "chat": {
+    "chatBotId": "question_answering_bot",
+    "conversationId": "426444d7-1481-4092-924b-fabdf8b9dd6f",
+    "responseId": "chatcmpl-6u3vy4ys97W68snKIg40d4CFm4uTq"
+  },
   "customTags": {},
   "customValues": {},
-  "internalUser": false,
-  "location": {
-    "coordinates": "38.9893,-77.1586",
-    "country": "US"
-  },
   "destinationUrl": "",
   "entity": "yext-faq-4",
+  "internalUser": false,
   "ip": {
     "address": "3ef4b369f13214495a481df113198730",
     "algorithm": "HASH"
+  },
+  "location": {
+    "coordinates": "38.9893,-77.1586",
+    "country": "US"
   },
   "locale": "en",
   "nonce": "",
